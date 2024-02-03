@@ -1,4 +1,5 @@
 {
     "welcome_header": "नमस्कार संसार!",
-    "hello_name": "नमस्कार {userName}"
+    "hello_name": "नमस्कार {userName}",
+    "how_you": "तिमीलाई कस्तो छ?"
 }
