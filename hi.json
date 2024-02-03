@@ -1,4 +1,5 @@
 {
     "welcome_header": "हैलो वर्ल्ड!",
-    "hello_name": "नमस्ते {userName}"
+    "hello_name": "नमस्ते {userName}",
+     "how_you":"आप कैसे हैं?"
 }
