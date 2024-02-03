@@ -1,0 +1,20 @@
+{
+    "locale": [
+        {
+            "languageCode": "en",
+            "name": "English"
+        },
+        {
+            "languageCode": "ar",
+            "name": "Arabic"
+        },
+        {
+            "languageCode": "ne",
+            "name": "Nepali"
+        },
+        {
+            "languageCode": "hi",
+            "name": "Hindi"
+        }
+    ]
+}
